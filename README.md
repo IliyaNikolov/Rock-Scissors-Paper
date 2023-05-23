@@ -1,2 +1,2 @@
-# Rock-Scissors-Papper
+# Rock-Scissors-Paper
 Console Game #1
